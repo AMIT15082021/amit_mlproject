@@ -1,0 +1,1 @@
+# after ingestion of the data the next step is its transformation
